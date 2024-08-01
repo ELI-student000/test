@@ -9,3 +9,4 @@
 * [git init コマンド](module3-1.md)
 * [git add コマンド](module3-2.md)
 * [git commit コマンド](module3-3.md)
+* [git log コマンド]
